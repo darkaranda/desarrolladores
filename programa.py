@@ -1,3 +1,3 @@
 nombre = "Juan Carlos"
-apellido = "Sosa"
+apellido = "Sosa Peña"
 print nombre + " " + apellido
