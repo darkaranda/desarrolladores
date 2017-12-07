@@ -1,3 +1,3 @@
-nombre = "Juan Carlos"
-apellido = "Sosa Peña"
-print nombre + " " + apellido
+name = "Juan Carlos"
+surname = "Sosa Peña"
+print name + " " + surname
